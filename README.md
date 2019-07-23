@@ -1,2 +1,2 @@
 # House-Prices-Prediction
-Predicting sales prices on Iowa Housing Dataset
+Predicting Sales Prices on Ames, Iowa Housing Dataset
